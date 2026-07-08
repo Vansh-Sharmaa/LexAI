@@ -73,7 +73,7 @@ soupsieve==2.6
 SQLAlchemy==2.0.39
 starkbank-ecdsa==2.2.0
 streamlit==1.43.2
-sympy==1.13.1
+sympy>=1.13.1
 tenacity==9.0.0
 threadpoolctl==3.6.0
 tokenizers==0.21.1
